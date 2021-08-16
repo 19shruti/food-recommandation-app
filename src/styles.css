@@ -2,9 +2,7 @@
   font-family: sans-serif;
   text-align: center;
 }
-body {
-  background-image: url(images/bg.jpg);
-}
+
 button {
   padding: 0.5rem 1rem;
   margin: 1rem 0.5rem;
